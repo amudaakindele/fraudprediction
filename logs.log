@@ -1,0 +1,40 @@
+2021-11-22 08:37:55,627:INFO:Initializing predict_model()
+2021-11-22 08:37:55,627:INFO:predict_model(estimator=<catboost.core.CatBoostClassifier object at 0x000001E4FE613AF0>, probability_threshold=None, encoded_labels=True, raw_score=False, round=0, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None)
+2021-11-22 08:37:55,628:INFO:Checking exceptions
+2021-11-22 08:37:55,628:INFO:Preloading libraries
+2021-11-22 08:37:55,628:ERROR:Pipeline not found. Exception:
+2021-11-22 08:37:55,639:ERROR:Traceback (most recent call last):
+  File "C:\Users\Kamar\anaconda3\lib\site-packages\pycaret\internal\tabular.py", line 8717, in predict_model
+    dtypes = prep_pipe.named_steps["dtypes"]
+NameError: name 'prep_pipe' is not defined
+
+2021-11-22 13:35:04,930:INFO:Initializing predict_model()
+2021-11-22 13:35:04,931:INFO:predict_model(estimator=<catboost.core.CatBoostClassifier object at 0x000001B009463AF0>, probability_threshold=None, encoded_labels=True, raw_score=False, round=0, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None)
+2021-11-22 13:35:04,931:INFO:Checking exceptions
+2021-11-22 13:35:04,931:INFO:Preloading libraries
+2021-11-22 13:35:04,931:ERROR:Pipeline not found. Exception:
+2021-11-22 13:35:04,935:ERROR:Traceback (most recent call last):
+  File "C:\Users\Kamar\anaconda3\lib\site-packages\pycaret\internal\tabular.py", line 8717, in predict_model
+    dtypes = prep_pipe.named_steps["dtypes"]
+NameError: name 'prep_pipe' is not defined
+
+2021-11-22 13:38:48,208:INFO:Initializing predict_model()
+2021-11-22 13:38:48,208:INFO:predict_model(estimator=<catboost.core.CatBoostClassifier object at 0x00000220903A3AF0>, probability_threshold=None, encoded_labels=True, raw_score=False, round=0, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None)
+2021-11-22 13:38:48,208:INFO:Checking exceptions
+2021-11-22 13:38:48,208:INFO:Preloading libraries
+2021-11-22 13:38:48,209:ERROR:Pipeline not found. Exception:
+2021-11-22 13:38:48,255:ERROR:Traceback (most recent call last):
+  File "C:\Users\Kamar\anaconda3\lib\site-packages\pycaret\internal\tabular.py", line 8717, in predict_model
+    dtypes = prep_pipe.named_steps["dtypes"]
+NameError: name 'prep_pipe' is not defined
+
+2021-11-26 00:07:02,870:INFO:Initializing predict_model()
+2021-11-26 00:07:02,871:INFO:predict_model(estimator=<catboost.core.CatBoostClassifier object at 0x0000021933BF4AF0>, probability_threshold=None, encoded_labels=True, raw_score=False, round=0, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None)
+2021-11-26 00:07:02,871:INFO:Checking exceptions
+2021-11-26 00:07:02,871:INFO:Preloading libraries
+2021-11-26 00:07:02,871:ERROR:Pipeline not found. Exception:
+2021-11-26 00:07:02,877:ERROR:Traceback (most recent call last):
+  File "C:\Users\Kamar\anaconda3\lib\site-packages\pycaret\internal\tabular.py", line 8717, in predict_model
+    dtypes = prep_pipe.named_steps["dtypes"]
+NameError: name 'prep_pipe' is not defined
+
